@@ -1,1 +1,0 @@
-<img src="public/img/langganan.jpg" style="width: 100%">
