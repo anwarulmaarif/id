@@ -1,9 +1,20 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>tes</title>
-</head>
-<body>
-<p>ini hasik app/view/home/index.php</p>
-</body>
-</html>
+<?php 
+require_once '../header.php';
+ ?>
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+        <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+</div>
+
+<?php 
+require_once '../footer.php';
+ ?>
