@@ -1,2 +1,1 @@
-<?php 
-echo "ini halaman promo"; ?>
+<p>ini halaman promo</p>

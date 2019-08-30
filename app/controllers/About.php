@@ -6,6 +6,7 @@ class About extends Controller {
 		$data['judul'] = 'About Us';
 		$this->view('templates/header', $data);
 		$this->view('about/index');
+		$this->view('about/map');
 		$this->view('templates/footer');
 	}
 
