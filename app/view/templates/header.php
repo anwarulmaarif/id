@@ -5,6 +5,6 @@
 <link rel="stylesheet" href="../../public/css/custom.css" >
 <link rel="stylesheet" href="../../public/css/bootstrap.css" >
 <link rel="shortcut icon" href="../../public/img/lionred.png">
-    <title>Lion Parcel Lampung</title>
+    <title><?= $data['judul']; ?></title>
   </head>
  <body>

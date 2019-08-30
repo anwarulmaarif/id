@@ -3,14 +3,16 @@
 class Home extends Controller {
 	public function index()
 	{
-		$this->view('templates/header');
+		$data['judul'] = 'Lion Parcel Lampung';
+		$this->view('templates/header' , $data);
 		$this->view('home/index');
 		$this->view('templates/footer');
 	}
 
 	public function promo()
 	{
-		$this->view('templates/header');
+		$data['judul'] = 'Promo';
+		$this->view('templates/header', $data);
 		$this->view('home/promo');
 		$this->view('templates/footer');
 	}

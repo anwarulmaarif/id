@@ -2,14 +2,26 @@
 
 class About extends Controller {
 	public function index(){
-		echo 'about/index';
+
+		$data['judul'] = 'About Us';
+		$this->view('templates/header', $data);
+		$this->view('about/index');
+		$this->view('templates/footer');
 	}
 
 	public function kontak(){
-		echo 'about/kontak';
+
+		$data['judul'] = 'Contact';
+		$this->view('templates/header', $data);
+		$this->view('about/kontak');
+		$this->view('templates/footer');
 	}
 
 	public function map(){
-		echo 'about/map';
+
+		$data['judul'] = 'Map';
+		$this->view('templates/header', $data);
+		$this->view('about/map');
+		$this->view('templates/footer');
 	}
 }
