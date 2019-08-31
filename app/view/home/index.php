@@ -38,3 +38,10 @@
     </a>
   </div>
 </div>
+<hr>
+<div class="container">
+<h1>Judul mboh opo</h1>
+<h6>iki isine, mengko ditulis nang kene</h6>
+
+
+</div>

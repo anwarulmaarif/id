@@ -19,7 +19,7 @@
  <nav class="navbar navbar-expand-lg ftco_navbar ftco-navbar-light mt-0" id="ftco-navbar" >
  	<div class="container">
   <a class="navbar-brand" href="<?= BASEURL; ?>"><img src="<?= BASEURL; ?>/img/lionred.png" width="30" height="30" class="d-inline-block align-top mr-2" alt="LionParcel">Lion Parcel Lampung</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+  <button  class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
