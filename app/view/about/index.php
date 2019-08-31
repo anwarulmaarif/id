@@ -1,5 +1,5 @@
-<div class="container mt-20">
-	<p></p>
+<div class="container mt-5">
+
 	<h1>Judul</h1>
 	<h6>ini deskripsinya</h6>
 	<hr>
