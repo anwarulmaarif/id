@@ -1,4 +1,4 @@
-<div class="bd-example mt-0">
+<div class="bd-example mt-0" style="z-index: -1">
   <div id="CarouselKu" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#CarouselKu" data-slide-to="0" class="active"></li>
@@ -44,13 +44,16 @@
     <div class="col-md-8">
       <div class="content">
         <h6>kolom 1 bla bla bla bla bla</h6>
+        
       </div>
     </div>
-    <div class="col-12 col-md-4 col-xl-4 bd-sidebar border-left pre-scrollable">
+    <div class="col-12 col-md-4 col-xl-4 bd-sidebar border-left pre-scrollable" >
+      <div class="container" style="margin-top: -35px;">
       <div class="content">
         <script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
         <link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
         <ul class="juicer-feed" data-feed-id="lionparcellampung"><h1 class="referral"><a href="https://www.juicer.io">Powered by Juicer.io</a></h1></ul>
+      </div>
       </div>
     </div>
   </div>

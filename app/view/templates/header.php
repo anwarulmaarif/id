@@ -16,7 +16,7 @@
  	</marquee>
  	</header>
 
- <nav class="navbar navbar-expand-lg ftco_navbar ftco-navbar-light mt-0" id="ftco-navbar" >
+ <nav class="navbar navbar-expand-lg ftco_navbar ftco-navbar-light mt-0" id="ftco-navbar" style="z-index: 9">
  	<div class="container">
   <a class="navbar-brand" href="<?= BASEURL; ?>"><img src="<?= BASEURL; ?>/img/lionred.png" width="30" height="30" class="d-inline-block align-top mr-2" alt="LionParcel">Lion Parcel Lampung</a>
   <button  class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
