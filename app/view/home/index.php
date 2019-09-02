@@ -40,6 +40,22 @@
 </div>
 <hr>
 <div class="container">
+  <div class="row" style="width: 100%">
+    <div class="col-md-8">
+      <div class="content">
+        <h6>kolom 1 bla bla bla bla bla</h6>
+      </div>
+    </div>
+    <div class="col-12 col-md-4 col-xl-4 bd-sidebar border-left pre-scrollable">
+      <div class="content">
+        <script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
+        <link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
+        <ul class="juicer-feed" data-feed-id="lionparcellampung"><h1 class="referral"><a href="https://www.juicer.io">Powered by Juicer.io</a></h1></ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
 <h1>Judul mboh opo</h1>
 <h6>iki isine, mengko ditulis nang kene</h6>
 

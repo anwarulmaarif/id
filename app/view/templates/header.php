@@ -25,13 +25,13 @@
   <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="<?= BASEURL; ?>">Home</a>
+        <a class="btna btnx rounded-0" href="<?= BASEURL; ?>">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="<?= BASEURL; ?>/home/promo">Promo</a>
+        <a class="btna btnx rounded-0" href="<?= BASEURL; ?>/home/promo">Promo</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="<?= BASEURL; ?>/About">About</a>
+        <a class="btna btnx rounded-0" href="<?= BASEURL; ?>/About">About</a>
       </li>
     </ul>
   </div>

@@ -23,7 +23,7 @@
     color: #000000;
     opacity: 1 !important; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
-      color: #fff; }
+      color: red; }
   .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu {
     border: none;
     background: #fff;
@@ -100,7 +100,7 @@
       text-transform: uppercase;
       font-size: 16px;
       letter-spacing: .1em; }
-    .ftco-navbar-light.scrolled .nav-link {
+    .ftco-navbar-light.scrolled .btna {
       padding-top: 0.5rem !important;
       padding-bottom: 0.5rem !important;
       color: #ffffff !important; }
@@ -501,4 +501,93 @@
 .custom-toggler .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(175,0,0,1)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 
+}
+
+.btnx {
+  display: inline-block;
+  font-weight: 400;
+  color: #000000;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+/* awal tombol menu */
+
+.btna {
+  display: inline-block;
+  font-weight: 400;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+/* tombol menu */
+@media (prefers-reduced-motion: reduce) {
+  .btna {
+    transition: none;
+  }
+}
+
+.btna:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.btna:focus, .btna.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.btna.disabled, .btna:disabled {
+  opacity: 0.65;
+}
+
+a.btna.disabled,
+fieldset:disabled a.btna {
+  pointer-events: none;
+}
+
+
+
+.btnx{
+  background: transparent;
+  color: #000000;
+  cursor:pointer;
+}
+.btnx:hover{
+  background: transparent;
+  color: red;
+  border: red 1px solid;
+  cursor:pointer;
+}
+
+/* akhir tombol menu */
+
+.col-centered {
+  display: inline-block;;
+  float: none;
+  text-align: left;
+  margin-right: -4px;
 }
