@@ -4,27 +4,34 @@
       <li data-target="#CarouselKu" data-slide-to="0" class="active"></li>
       <li data-target="#CarouselKu" data-slide-to="1"></li>
       <li data-target="#CarouselKu" data-slide-to="2"></li>
+      <li data-target="#CarouselKu" data-slide-to="3"></li>
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="<?= BASEURL; ?>/img/a.jpg" class="d-block w-100" alt="...">
+        <img src="<?= BASEURL; ?>/img/jangkau.jpg" class="d-block w-100" alt="jangkau">
         <div class="carousel-caption d-none d-md-block">
-          <h5>First slide label</h5>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h5></h5>
+          <p></p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="<?= BASEURL; ?>/img/b.jpg" class="d-block w-100" alt="...">
+        <img src="<?= BASEURL; ?>/img/klaim.jpg" class="d-block w-100" alt="klaim">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Second slide label</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <a class="btn btn-danger" href="http://lionparcel.com/claim" target="_blank" style="z-index: 8;">Claim</a>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="<?= BASEURL; ?>/img/c.jpg" class="d-block w-100" alt="...">
+        <img src="<?= BASEURL; ?>/img/antar.jpg" class="d-block w-100" alt="antar">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Third slide label</h5>
-          <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+          <h5></h5>
+          <p></p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="<?= BASEURL; ?>/img/asuransi.jpg" class="d-block w-100" alt="asuransi">
+        <div class="carousel-caption d-none d-md-block">
+          <h5></h5>
+          <p></p>
         </div>
       </div>
     </div>

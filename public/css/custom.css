@@ -4,7 +4,7 @@
   position: absolute;
   left: 0;
   right: 0;
-  z-index: 3;
+  z-index: 1008;
   top: 0px; 
   box-shadow: 0 3px 8px -5px gray;}
   @media (max-width: 991.98px) {
@@ -71,6 +71,7 @@
     letter-spacing: .1em; }
   .ftco-navbar-light.scrolled {
     position: fixed;
+    z-index: 1010;
     right: 0;
     left: 0;
     top: 0;
