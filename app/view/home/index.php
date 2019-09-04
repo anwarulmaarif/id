@@ -49,9 +49,8 @@
 <div class="container">
   <div class="row" style="width: 100%">
     <div class="col-md-8">
-      <div class="content">
-        <h6>kolom 1 bla bla bla bla bla</h6>
-        
+      <div class="content" id="langganan">
+        <?php require_once 'langganan.php'; ?>
       </div>
     </div>
     <div class="col-12 col-md-4 col-xl-4 bd-sidebar border-left pre-scrollable" >
@@ -64,10 +63,4 @@
       </div>
     </div>
   </div>
-</div>
-<div class="container">
-<h1>Judul mboh opo</h1>
-<h6>iki isine, mengko ditulis nang kene</h6>
-
-
 </div>

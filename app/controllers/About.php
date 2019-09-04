@@ -22,7 +22,6 @@ class About extends Controller {
 
 		$data['judul'] = 'Map';
 		$this->view('templates/header', $data);
-		$this->view('about/map');
 		$this->view('templates/footer');
 	}
 }
