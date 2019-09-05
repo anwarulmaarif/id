@@ -10,7 +10,7 @@
   </head>
  <body>
 
- 	<header>
+ 	<header style="background: #ffffff; z-index: 8;">
  	<marquee>
  		<a class="tex-dark" href="<?= BASEURL; ?>/About" >Jl. Pangeran Antasari No.1E, Kalibalau Kencana, Kedamaian, Kota Bandar Lampung. &emsp; Telp (0721) 5602057</a>
  	</marquee>
@@ -25,10 +25,10 @@
   <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="btna btnx rounded-0" href="<?= BASEURL; ?>">Home</a>
+        <a class="btna btnx rounded-0" href="<?= BASEURL; ?>">Beranda</a>
       </li>
       <li class="nav-item">
-        <a class="btna btnx rounded-0" href="#langganan">Langganan</a>
+        <a class="btna btnx rounded-0" href="<?= BASEURL; ?>#langganan">Langganan</a>
       </li>
       <li class="nav-item">
         <a class="btna btnx rounded-0" href="<?= BASEURL; ?>/home/promo">Promo</a>
@@ -37,7 +37,7 @@
         <a class="btna btnx rounded-0" href="<?= BASEURL; ?>/About#map">Alamat</a>
       </li>
       <li class="nav-item">
-        <a class="btna btnx rounded-0" href="<?= BASEURL; ?>/About#kontak">Contact</a>
+        <a class="btna btnx rounded-0" href="<?= BASEURL; ?>/About#kontak">Kontak</a>
       </li>
     </ul>
   </div>

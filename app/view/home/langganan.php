@@ -6,6 +6,7 @@
 <h6></h6>
 <h6>Klik tombol dibawah untuk info selengkapnya</h6>
 <a href="" class="btn btn-danger">Klik disini</a>
-<hr>
+<br><br>
 <p style="line-height: 1px; font-size: 10px;">* Syarat dan ketentuan berlaku.</p>
 <p style="line-height: 1px; font-size: 10px;">** Khusus untuk area kota Bandar Lampung.</p>
+<hr>
