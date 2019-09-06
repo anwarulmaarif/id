@@ -6,6 +6,7 @@
 <link rel="stylesheet" href="<?= BASEURL; ?>/css/bootstrap.css">
 <link rel="stylesheet" href="<?= BASEURL; ?>/css/animasi.css">
 <link rel="shortcut icon" href="<?= BASEURL; ?>/img/lionred.png">
+
     <title><?= $data['judul']; ?></title>
   </head>
  <body>
