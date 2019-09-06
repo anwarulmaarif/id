@@ -1,7 +1,8 @@
 <div class="container-fluid">
-	<div class="bunderan"></div>
+	<div class="bunderan" style="
+  height: 300px; width: 110%; margin-left: -5%; "></div>
 
-<div class="jumbotron shadow" style="z-index: 2; margin-top: -50px;" id="kontak">
+<div class="jumbotron shadow" style="z-index: 2; margin-top: -200px;" id="kontak">
 	<?php require_once 'kontak.php'; ?>
 </div>
 <div class="jumbotron shadow" id="map" style="z-index: 4;">

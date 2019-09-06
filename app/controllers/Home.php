@@ -16,4 +16,12 @@ class Home extends Controller {
 		$this->view('home/promo');
 		$this->view('templates/footer');
 	}
+
+	public function cek()
+	{
+		$data['judul'] = 'Cek Resi';
+		$this->view('templates/header', $data);
+		$this->view('home/cek');
+		$this->view('templates/footer');
+	}
 }
