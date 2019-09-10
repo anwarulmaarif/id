@@ -10,3 +10,15 @@
 <p style="line-height: 1px; font-size: 10px;">* Syarat dan ketentuan berlaku.</p>
 <p style="line-height: 1px; font-size: 10px;">** Khusus untuk area kota Bandar Lampung.</p>
 <hr>
+
+<br>
+<div class="container shadow rounded mb-4 p-4" id="forminput">
+<form action="home/cek" method="post" target="hasil">
+	<div class="form-goup">
+		<label for="noSTT"><h2>Masukan nomor resi anda</h2></label>
+		<input type="" name="noSTT" class="form-control" id="noSTT" placeholder="Input Nomor Resi / STT" style="width: 40%;">
+		<button type="submit" class="btn btn-danger mt-2">Submit</button>
+	</div>
+</form>
+<br>
+</div>
