@@ -6,6 +6,7 @@ class Home extends Controller {
 		$data['judul'] = 'Lion Parcel Lampung';
 		$this->view('templates/header' , $data);
 		$this->view('home/index');
+		$this->view('home/client');
 		$this->view('templates/footer');
 	}
 

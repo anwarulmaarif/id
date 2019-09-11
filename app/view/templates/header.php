@@ -13,7 +13,7 @@
 
  	<header style="background: #ffffff; z-index: 8;">
  	<marquee>
- 		<a class="tex-dark" href="<?= BASEURL; ?>/About" >Jl. Pangeran Antasari No.1E, Kalibalau Kencana, Kedamaian, Kota Bandar Lampung. &emsp; Telp (0721) 5602057</a>
+ 		<a class="tex-dark" href="<?= BASEURL; ?>/About" >Jl. Pangeran Antasari No.1E, Kalibalau Kencana, Kedamaian, Kota Bandar Lampung. &emsp; Telp (0721) 5602057 &emsp; WA (0821) 7876 1223</a>
  	</marquee>
  	</header>
 
