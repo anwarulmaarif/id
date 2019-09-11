@@ -25,11 +25,5 @@ class Home extends Controller {
 		$this->view('templates/footer');
 	}
 
-	public function hasil()
-	{
-		$data['judul'] = 'Cek Resi';
-		$this->view('templates/header', $data);
-		$this->view('home/hasil');
-		$this->view('templates/footer');
-	}
+	
 }

@@ -13,7 +13,7 @@
 
 <br>
 <div class="container shadow rounded mb-4 p-4" id="forminput">
-<form action="home/cek" method="post" target="hasil">
+<form action="home/cek" method="post" target="">
 	<div class="form-goup">
 		<label for="noSTT"><h2>Lacak Paket Anda Disini</h2></label>
 		<p style="line-height: 1px; font-size: 10px;">Contoh no resi : 11-19-1234567, 88-19-1234567, 99-19-1234567</p>
