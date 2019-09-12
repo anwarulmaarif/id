@@ -4,8 +4,8 @@
     <div class="home-client m-b-xxl" data-aos="fade-up">
         <div class="container">
             <div class="columns">
-                <div class="column has-text-centered">
-                    <h2 class="title is-size-2 has-text-weight-bold font-black">Our <span class="has-text-danger">Client</span></h2>
+                <div class="column text-center">
+                    <center><h2 class="title is-size-2 has-text-weight-bold font-black">Our <span class="has-text-danger">Client</span></h2></center>
                 </div>
             </div>
 
