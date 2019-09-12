@@ -46,10 +46,11 @@
   </div>
 </div>
 <hr>
+<br><br>
 <div class="container">
   <div class="row" style="width: 100%">
     <div class="col-md-8">
-      <div class="content" id="langganan">
+      <div class="content">
         <?php require_once 'langganan.php'; ?>
       </div>
     </div>

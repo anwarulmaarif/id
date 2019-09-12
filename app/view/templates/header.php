@@ -30,7 +30,7 @@
         <a class="btna btnx rounded-0" href="<?= BASEURL; ?>">Beranda</a>
       </li>
       <li class="nav-item">
-        <a class="btna btnx rounded-0" href="<?= BASEURL; ?>#langganan">Langganan</a>
+        <a class="btna btnx rounded-0" href="<?= BASEURL; ?>#subss">Langganan</a>
       </li>
       <li class="nav-item">
         <a class="btna btnx rounded-0" href="<?= BASEURL; ?>/home/promo">Promo</a>
