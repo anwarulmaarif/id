@@ -5,6 +5,7 @@
 <link rel="stylesheet" href="<?= BASEURL; ?>/css/custom.css">
 <link rel="stylesheet" href="<?= BASEURL; ?>/css/bootstrap.css">
 <link rel="stylesheet" href="<?= BASEURL; ?>/css/animasi.css">
+<link rel="stylesheet" href="<?= BASEURL; ?>/css/lion.css">
 <link rel="shortcut icon" href="<?= BASEURL; ?>/img/lionred.png">
 
     <title><?= $data['judul']; ?></title>

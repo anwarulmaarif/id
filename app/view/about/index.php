@@ -9,4 +9,3 @@
 	<?php require_once 'map.php'; ?>
 </div>
 </div>
-<?php require_once 'lacak.php'; ?>

@@ -53,12 +53,12 @@
         <?php require_once 'langganan.php'; ?>
       </div>
     </div>
-    <div class="col-12 col-md-4 col-xl-4 bd-sidebar border-left pre-scrollable" >
-      <div class="container" style="margin-top: -35px;">
+    <div class="col-12 col-md-4 col-xl-4 bd-sidebar border-left pre-scrollable" id="ig" >
+      <div class="container">
       <div class="content">
         <script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
         <link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
-        <ul class="juicer-feed" data-feed-id="lionparcellampung"><h1 class="referral"><a href="https://www.juicer.io">Powered by Juicer.io</a></h1></ul>
+        <ul class="juicer-feed" data-feed-id="lionparcellampung"><h1 class="referral"><a href="https://Instagram.com/lionparcellampung" target="_blank">Instagram @lionparcellampung</a></h1></ul>
       </div>
       </div>
     </div>
